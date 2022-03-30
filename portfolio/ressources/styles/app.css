@@ -1,0 +1,184 @@
+img {
+  width: 25vh;
+  height: 35vh;
+}
+
+.title {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.date {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.line {
+  border: 1px solid #cdc4c4;
+}
+
+.ultimContainer {
+  margin: 50px 0;
+  height: auto;
+}
+
+.sectionmenu {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 54vh;
+}
+
+.BTN {
+  border: 1px solid gray;
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.BTN:hover {
+  background-color: #f8f8f8;
+}
+
+.h1 {
+  font-weight: bold;
+}
+
+.sectionTwo {
+  height: 90vh;
+}
+
+.lineTwo {
+  border: 1px solid gray;
+  height: 1px;
+}
+
+.whos {
+  font-size: 8px;
+  font-family: "Poppins", sans-serif;
+  color: gray;
+}
+
+.work {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.whoiam {
+  background: url("../images/original.jpg") center/cover;
+}
+
+.titleTwo {
+  font-family: "Libre Franklin", sans-serif;
+  font-size: 28px;
+}
+
+.original {
+  height: 55vh;
+}
+
+.legend {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.images {
+  background: url("../images/nohe.jpg") center/cover;
+  height: 55vh;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.images:nth-child(2) {
+  background: url("../images/Maregabis.png") center/cover;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.images:nth-child(3) {
+  background: url("../images/hahah.png") center/cover;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.images:hover {
+  -webkit-filter: grayscale(90%);
+          filter: grayscale(90%);
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: ease-in-out 0.2s;
+  transition: ease-in-out 0.2s;
+}
+
+.ctnaire {
+  margin: 30px 0;
+}
+
+.reader {
+  background: url("../images/ecrrr.png") no-repeat;
+}
+
+.three {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 30px;
+  margin: 20% 0;
+}
+
+.containerPAge4 {
+  margin: 30px 0;
+}
+
+.four {
+  background: url("../images/bgsombre.jpg") no-repeat center/cover;
+  height: 50vh;
+}
+
+.containerPAge5 {
+  margin: 30px 0;
+  height: auto;
+}
+
+.dev {
+  background: url(../images/html-coding.png) center/cover no-repeat;
+  -webkit-transform: scale(0.5) translateY(-50%);
+          transform: scale(0.5) translateY(-50%);
+}
+
+.fsize {
+  font-size: 17px;
+}
+
+.gry {
+  color: gray;
+}
+
+.containerLast {
+  margin: 30px 0;
+}
+
+.contLast {
+  height: 55vh;
+}
+
+.dated {
+  font-size: 70px;
+}
+
+.coled {
+  margin: 10%;
+}
+
+.adrss {
+  font-size: 1.4rem;
+}
+/*# sourceMappingURL=app.css.map */
